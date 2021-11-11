@@ -65,12 +65,8 @@ typings/
 # Output of 'npm pack'
 *.tgz
 
-# Yarn Integrity file
-.yarn-integrity
-
 # dotenv environment variables file
 .env
-.env.test
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
@@ -102,3 +98,5 @@ dist
 
 # TernJS port file
 .tern-port
+
+.DS_Store
